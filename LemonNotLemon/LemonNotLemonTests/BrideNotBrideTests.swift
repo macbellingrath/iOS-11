@@ -1,15 +1,15 @@
 //
-//  BrideNotBrideTests.swift
-//  BrideNotBrideTests
+//  LemonNotLemonTests.swift
+//  LemonNotLemonTests
 //
 //  Created by Mac Bellingrath on 6/13/17.
-//  Copyright © 2017 WeddingWire. All rights reserved.
+//  Copyright © 2017. All rights reserved.
 //
 
 import XCTest
-@testable import BrideNotBride
+@testable import LemonNotLemon
 
-class BrideNotBrideTests: XCTestCase {
+class LemonNotLemonTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

@@ -38,17 +38,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F9CDD1121EF036340088B4EA /* BrideNotBride.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BrideNotBride.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F9CDD1121EF036340088B4EA /* LemonNotLemon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LemonNotLemon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9CDD1151EF036340088B4EA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9CDD1171EF036340088B4EA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F9CDD11A1EF036340088B4EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F9CDD11C1EF036340088B4EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F9CDD11F1EF036340088B4EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F9CDD1211EF036340088B4EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F9CDD1261EF036340088B4EA /* BrideNotBrideTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BrideNotBrideTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F9CDD1261EF036340088B4EA /* LemonNotLemonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LemonNotLemonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9CDD12A1EF036340088B4EA /* BrideNotBrideTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrideNotBrideTests.swift; sourceTree = "<group>"; };
 		F9CDD12C1EF036340088B4EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F9CDD1311EF036340088B4EA /* BrideNotBrideUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BrideNotBrideUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F9CDD1311EF036340088B4EA /* LemonNotLemonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LemonNotLemonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9CDD1351EF036340088B4EA /* BrideNotBrideUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrideNotBrideUITests.swift; sourceTree = "<group>"; };
 		F9CDD1371EF036340088B4EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F9CDD1431EF0369C0088B4EA /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = Inceptionv3.mlmodel; path = "../../../UnsplashExplorer-CoreML/UnsplashExplorer/Resources/Inceptionv3.mlmodel"; sourceTree = "<group>"; };
@@ -85,9 +85,9 @@
 		F9CDD1091EF036340088B4EA = {
 			isa = PBXGroup;
 			children = (
-				F9CDD1141EF036340088B4EA /* BrideNotBride */,
-				F9CDD1291EF036340088B4EA /* BrideNotBrideTests */,
-				F9CDD1341EF036340088B4EA /* BrideNotBrideUITests */,
+				F9CDD1141EF036340088B4EA /* LemonNotLemon */,
+				F9CDD1291EF036340088B4EA /* LemonNotLemonTests */,
+				F9CDD1341EF036340088B4EA /* LemonNotLemonUITests */,
 				F9CDD1131EF036340088B4EA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -95,14 +95,14 @@
 		F9CDD1131EF036340088B4EA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F9CDD1121EF036340088B4EA /* BrideNotBride.app */,
-				F9CDD1261EF036340088B4EA /* BrideNotBrideTests.xctest */,
-				F9CDD1311EF036340088B4EA /* BrideNotBrideUITests.xctest */,
+				F9CDD1121EF036340088B4EA /* LemonNotLemon.app */,
+				F9CDD1261EF036340088B4EA /* LemonNotLemonTests.xctest */,
+				F9CDD1311EF036340088B4EA /* LemonNotLemonUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F9CDD1141EF036340088B4EA /* BrideNotBride */ = {
+		F9CDD1141EF036340088B4EA /* LemonNotLemon */ = {
 			isa = PBXGroup;
 			children = (
 				F9CDD1431EF0369C0088B4EA /* Inceptionv3.mlmodel */,
@@ -116,33 +116,33 @@
 				F9CDD11E1EF036340088B4EA /* LaunchScreen.storyboard */,
 				F9CDD1211EF036340088B4EA /* Info.plist */,
 			);
-			path = BrideNotBride;
+			path = LemonNotLemon;
 			sourceTree = "<group>";
 		};
-		F9CDD1291EF036340088B4EA /* BrideNotBrideTests */ = {
+		F9CDD1291EF036340088B4EA /* LemonNotLemonTests */ = {
 			isa = PBXGroup;
 			children = (
 				F9CDD12A1EF036340088B4EA /* BrideNotBrideTests.swift */,
 				F9CDD12C1EF036340088B4EA /* Info.plist */,
 			);
-			path = BrideNotBrideTests;
+			path = LemonNotLemonTests;
 			sourceTree = "<group>";
 		};
-		F9CDD1341EF036340088B4EA /* BrideNotBrideUITests */ = {
+		F9CDD1341EF036340088B4EA /* LemonNotLemonUITests */ = {
 			isa = PBXGroup;
 			children = (
 				F9CDD1351EF036340088B4EA /* BrideNotBrideUITests.swift */,
 				F9CDD1371EF036340088B4EA /* Info.plist */,
 			);
-			path = BrideNotBrideUITests;
+			path = LemonNotLemonUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F9CDD1111EF036340088B4EA /* BrideNotBride */ = {
+		F9CDD1111EF036340088B4EA /* LemonNotLemon */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F9CDD13A1EF036340088B4EA /* Build configuration list for PBXNativeTarget "BrideNotBride" */;
+			buildConfigurationList = F9CDD13A1EF036340088B4EA /* Build configuration list for PBXNativeTarget "LemonNotLemon" */;
 			buildPhases = (
 				F9CDD10E1EF036340088B4EA /* Sources */,
 				F9CDD10F1EF036340088B4EA /* Frameworks */,
@@ -152,14 +152,14 @@
 			);
 			dependencies = (
 			);
-			name = BrideNotBride;
+			name = LemonNotLemon;
 			productName = BrideNotBride;
-			productReference = F9CDD1121EF036340088B4EA /* BrideNotBride.app */;
+			productReference = F9CDD1121EF036340088B4EA /* LemonNotLemon.app */;
 			productType = "com.apple.product-type.application";
 		};
-		F9CDD1251EF036340088B4EA /* BrideNotBrideTests */ = {
+		F9CDD1251EF036340088B4EA /* LemonNotLemonTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F9CDD13D1EF036340088B4EA /* Build configuration list for PBXNativeTarget "BrideNotBrideTests" */;
+			buildConfigurationList = F9CDD13D1EF036340088B4EA /* Build configuration list for PBXNativeTarget "LemonNotLemonTests" */;
 			buildPhases = (
 				F9CDD1221EF036340088B4EA /* Sources */,
 				F9CDD1231EF036340088B4EA /* Frameworks */,
@@ -170,14 +170,14 @@
 			dependencies = (
 				F9CDD1281EF036340088B4EA /* PBXTargetDependency */,
 			);
-			name = BrideNotBrideTests;
+			name = LemonNotLemonTests;
 			productName = BrideNotBrideTests;
-			productReference = F9CDD1261EF036340088B4EA /* BrideNotBrideTests.xctest */;
+			productReference = F9CDD1261EF036340088B4EA /* LemonNotLemonTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		F9CDD1301EF036340088B4EA /* BrideNotBrideUITests */ = {
+		F9CDD1301EF036340088B4EA /* LemonNotLemonUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F9CDD1401EF036340088B4EA /* Build configuration list for PBXNativeTarget "BrideNotBrideUITests" */;
+			buildConfigurationList = F9CDD1401EF036340088B4EA /* Build configuration list for PBXNativeTarget "LemonNotLemonUITests" */;
 			buildPhases = (
 				F9CDD12D1EF036340088B4EA /* Sources */,
 				F9CDD12E1EF036340088B4EA /* Frameworks */,
@@ -188,9 +188,9 @@
 			dependencies = (
 				F9CDD1331EF036340088B4EA /* PBXTargetDependency */,
 			);
-			name = BrideNotBrideUITests;
+			name = LemonNotLemonUITests;
 			productName = BrideNotBrideUITests;
-			productReference = F9CDD1311EF036340088B4EA /* BrideNotBrideUITests.xctest */;
+			productReference = F9CDD1311EF036340088B4EA /* LemonNotLemonUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -205,6 +205,7 @@
 				TargetAttributes = {
 					F9CDD1111EF036340088B4EA = {
 						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Manual;
 					};
 					F9CDD1251EF036340088B4EA = {
 						CreatedOnToolsVersion = 9.0;
@@ -216,7 +217,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F9CDD10D1EF036340088B4EA /* Build configuration list for PBXProject "BrideNotBride" */;
+			buildConfigurationList = F9CDD10D1EF036340088B4EA /* Build configuration list for PBXProject "LemonNotLemon" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -229,9 +230,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F9CDD1111EF036340088B4EA /* BrideNotBride */,
-				F9CDD1251EF036340088B4EA /* BrideNotBrideTests */,
-				F9CDD1301EF036340088B4EA /* BrideNotBrideUITests */,
+				F9CDD1111EF036340088B4EA /* LemonNotLemon */,
+				F9CDD1251EF036340088B4EA /* LemonNotLemonTests */,
+				F9CDD1301EF036340088B4EA /* LemonNotLemonUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -298,12 +299,12 @@
 /* Begin PBXTargetDependency section */
 		F9CDD1281EF036340088B4EA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F9CDD1111EF036340088B4EA /* BrideNotBride */;
+			target = F9CDD1111EF036340088B4EA /* LemonNotLemon */;
 			targetProxy = F9CDD1271EF036340088B4EA /* PBXContainerItemProxy */;
 		};
 		F9CDD1331EF036340088B4EA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F9CDD1111EF036340088B4EA /* BrideNotBride */;
+			target = F9CDD1111EF036340088B4EA /* LemonNotLemon */;
 			targetProxy = F9CDD1321EF036340088B4EA /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -435,11 +436,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = J222R3JP4X;
-				INFOPLIST_FILE = BrideNotBride/Info.plist;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = LemonNotLemon/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.weddingWire.BrideNotBride;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mbellingrath.lemonNotLemon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -449,11 +452,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = J222R3JP4X;
-				INFOPLIST_FILE = BrideNotBride/Info.plist;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = LemonNotLemon/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.weddingWire.BrideNotBride;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mbellingrath.lemonNotLemon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -464,14 +469,14 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = J222R3JP4X;
-				INFOPLIST_FILE = BrideNotBrideTests/Info.plist;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = LemonNotLemonTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.weddingWire.BrideNotBrideTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.macbellingrath.LemonNotLemonTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BrideNotBride.app/BrideNotBride";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LemonNotLemon.app/LemonNotLemon";
 			};
 			name = Debug;
 		};
@@ -480,14 +485,14 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = J222R3JP4X;
-				INFOPLIST_FILE = BrideNotBrideTests/Info.plist;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = LemonNotLemonTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.weddingWire.BrideNotBrideTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.macbellingrath.LemonNotLemonTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BrideNotBride.app/BrideNotBride";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LemonNotLemon.app/LemonNotLemon";
 			};
 			name = Release;
 		};
@@ -495,10 +500,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = J222R3JP4X;
-				INFOPLIST_FILE = BrideNotBrideUITests/Info.plist;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = LemonNotLemonUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.weddingWire.BrideNotBrideUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.macbellingrath.LemonNotLemonUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -510,10 +515,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = J222R3JP4X;
-				INFOPLIST_FILE = BrideNotBrideUITests/Info.plist;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = LemonNotLemonUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.weddingWire.BrideNotBrideUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.macbellingrath.LemonNotLemonUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -524,7 +529,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F9CDD10D1EF036340088B4EA /* Build configuration list for PBXProject "BrideNotBride" */ = {
+		F9CDD10D1EF036340088B4EA /* Build configuration list for PBXProject "LemonNotLemon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F9CDD1381EF036340088B4EA /* Debug */,
@@ -533,29 +538,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F9CDD13A1EF036340088B4EA /* Build configuration list for PBXNativeTarget "BrideNotBride" */ = {
+		F9CDD13A1EF036340088B4EA /* Build configuration list for PBXNativeTarget "LemonNotLemon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F9CDD13B1EF036340088B4EA /* Debug */,
 				F9CDD13C1EF036340088B4EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		F9CDD13D1EF036340088B4EA /* Build configuration list for PBXNativeTarget "BrideNotBrideTests" */ = {
+		F9CDD13D1EF036340088B4EA /* Build configuration list for PBXNativeTarget "LemonNotLemonTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F9CDD13E1EF036340088B4EA /* Debug */,
 				F9CDD13F1EF036340088B4EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		F9CDD1401EF036340088B4EA /* Build configuration list for PBXNativeTarget "BrideNotBrideUITests" */ = {
+		F9CDD1401EF036340088B4EA /* Build configuration list for PBXNativeTarget "LemonNotLemonUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F9CDD1411EF036340088B4EA /* Debug */,
 				F9CDD1421EF036340088B4EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

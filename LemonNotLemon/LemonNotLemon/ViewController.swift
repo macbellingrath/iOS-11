@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  BrideNotBride
+//  LemonNotLemon
 //
 //  Created by Mac Bellingrath on 6/13/17.
-//  Copyright © 2017 WeddingWire. All rights reserved.
+//  Copyright © 2017. All rights reserved.
 //
 
 import UIKit
